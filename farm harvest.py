@@ -18,6 +18,7 @@ print("Total earnings : R", earnings)
 print()
 # --- Floor Division (//) and Modulus (%) ---
 # Pack the harvest into bags of 25 kg each
+# Modulus Operator gives remainder
 bags = total // 25
 leftover = total % 25
 
